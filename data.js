@@ -1,6 +1,6 @@
 const DATA={
   "season": "2026-2027",
-  "source": "JOK.cat / calendarios 2026-27",
+  "source": "Calendarios de competición 2026-27",
   "generated": "2026-10-05",
   "categories": [
     {
