@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap");:root{--ink:#101522;--muted:#687184;--line:#e7eaf0;--paper:#f7f8fb;--accent:#e5232e;--accent2:#8b1018;--shadow:0 12px 35px rgba(16,21,34,.08)}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:"DM Sans",sans-serif}header{height:72px;background:#fff;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:0 clamp(20px,5vw,72px);position:sticky;top:0;z-index:10}.brand{display:flex;gap:12px;align-items:center}.mark{width:42px;height:42px;border-radius:12px;background:linear-gradient(145deg,#111827,#e5232e);color:#fff;display:grid;place-items:center;font:700 12px "Space Grotesk"}.brand strong,.brand span{display:block}.brand strong{font:700 17px "Space Grotesk"}.brand span{font-size:12px;color:var(--muted)}.source{font-size:12px;color:var(--muted)}main{max-width:1180px;margin:auto;padding:58px 22px 80px}.eyebrow{font-size:11px;font-weight:700;letter-spacing:.16em;color:var(--accent);margin:0 0 12px}.hero h1{font:700 clamp(38px,6vw,72px)/.96 "Space Grotesk";letter-spacing:-.055em;margin:0 0 20px}.hero h1 em{font-style:normal;color:#778094}.lead{max-width:700px;color:var(--muted);font-size:17px;line-height:1.6}.search{height:64px;background:#fff;border:1px solid var(--line);border-radius:18px;display:flex;align-items:center;padding:0 18px;box-shadow:var(--shadow);margin:30px 0}.search span{font-size:28px;color:var(--muted);margin-right:10px}.search input{border:0;outline:0;font:500 16px "DM Sans";width:100%;background:transparent}.search kbd{font-size:11px;color:#8891a1;border:1px solid var(--line);border-radius:7px;padding:5px 7px}.stats{display:flex;gap:10px;flex-wrap:wrap}.stats div{background:#fff;border:1px solid var(--line);border-radius:14px;padding:12px 17px}.stats b{font:700 18px "Space Grotesk";margin-right:6px}.stats span{font-size:12px;color:var(--muted)}.results{display:grid;gap:12px}.category{background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden}.cat-head{width:100%;border:0;background:#fff;padding:20px 22px;display:flex;align-items:center;gap:16px;text-align:left;cursor:pointer}.cat-head:hover{background:#fafbfc}.num{width:38px;height:38px;border-radius:11px;background:#f3f4f7;display:grid;place-items:center;font:700 13px "Space Grotesk";color:#596174}.cat-title{flex:1}.cat-title strong{display:block;font:600 17px "Space Grotesk"}.cat-title small{color:var(--muted);font-size:12px}.chev{font-size:22px;color:#929aaa;transition:.2s}.category.open .chev{transform:rotate(180deg)}.teams{display:none;padding:14px;border-top:1px solid var(--line)}.category.open .teams{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:10px}.team{border:1px solid var(--line);border-radius:14px;padding:14px;display:flex;gap:13px;align-items:center;background:#fcfcfd}.shield{width:46px;height:46px;border-radius:12px;background:#101522;color:#fff;display:grid;place-items:center;font:700 12px "Space Grotesk";flex:0 0 46px;overflow:hidden}.shield img{width:100%;height:100%;object-fit:contain;background:#fff}.teaminfo{min-width:0;flex:1}.teaminfo strong{display:block;font-size:14px}.teaminfo small{display:block;color:var(--muted);margin-top:3px;font-size:12px;line-height:1.35}.maps{display:inline-block;margin-top:8px;color:var(--accent2);font-size:12px;font-weight:700;text-decoration:none}.maps:hover{text-decoration:underline}.empty{padding:30px;text-align:center;color:var(--muted)}.method{margin-top:55px;border-top:1px solid var(--line);padding-top:25px;color:var(--muted);font-size:12px;line-height:1.65}.method h2{color:var(--ink);font:600 18px "Space Grotesk"}footer{text-align:center;padding:30px;color:#8a92a2;font-size:11px;border-top:1px solid var(--line)}@media(max-width:700px){header{min-height:68px;height:auto}.source{display:none}main{padding-top:35px}.hero h1{font-size:44px}.search kbd{display:none}.category.open .teams{grid-template-columns:1fr}}.status{display:inline-block;margin-top:7px;font-size:10px;font-weight:700;letter-spacing:.04em;text-transform:uppercase}.status.ok{color:#137a4a}.status.pending{color:#9b6a00}.teaminfo small{overflow-wrap:anywhere}.shield img{padding:3px}.team:hover{box-shadow:0 8px 22px rgba(16,21,34,.06);transform:translateY(-1px);transition:.15s}.category.open .teams{align-items:stretch}
+/* Selector d'idioma: ocupa la seva pròpia zona i no se superposa al text de la capçalera. */
+header { position: relative; }
+.header-tools {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+  margin-left: 24px;
+  min-width: 210px;
+}
+.language-switcher {
+  position: static;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+}
+.language-switcher .lang-btn {
+  border: 0;
+  background: transparent;
+  padding: 2px;
+  cursor: pointer;
+  color: inherit;
+  opacity: .55;
+  font: inherit;
+  letter-spacing: inherit;
+}
+.language-switcher .lang-btn.active {
+  opacity: 1;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+@media (max-width: 700px) {
+  header { align-items: flex-start; }
+  .header-tools { min-width: 0; gap: 7px; }
+  .source { font-size: .62rem; text-align: right; }
+}

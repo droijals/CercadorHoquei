@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hoquei Patins · UE Horta · 2026–27</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <div class="brand">
+    <div class="mark">UEH</div>
+    <div>
+      <strong>Hoquei Patins</strong>
+      <span>Unió Esportiva Horta · 2026–2027</span>
+    </div>
+  </div>
+  <div class="header-tools">
+    <div class="source" data-i18n="sourceHeader">Calendaris contrastats amb JOK.cat</div>
+    <div class="language-switcher" aria-label="Idioma">
+      <button type="button" class="lang-btn active" data-lang="ca">CAT</button>
+      <span aria-hidden="true">|</span>
+      <button type="button" class="lang-btn" data-lang="es">ES</button>
+    </div>
+  </div>
+</header>
+
+<main>
+<section class="hero">
+  <p class="eyebrow" data-i18n="season">TEMPORADA 2026–27</p>
+  <h1 data-i18n="headline">Les categories de la UE Horta<br><em>i els seus clubs rivals</em></h1>
+  <p class="lead" data-i18n="lead">Cerca per club, ciutat o localitat. Obre qualsevol fitxa i calcula la ruta des de la teva ubicació amb Google Maps.</p>
+  <div class="search">
+    <span>⌕</span>
+    <input id="search" data-i18n-placeholder="searchPlaceholder" placeholder="Cerca per club, ciutat, localitat o adreça…" autocomplete="off">
+    <kbd>Ctrl K</kbd>
+  </div>
+  <div class="stats">
+    <div><b id="catCount">0</b><span data-i18n="categories">categories</span></div>
+    <div><b id="clubCount">0</b><span data-i18n="teamsListed">equips llistats</span></div>
+    <div><b>2026–27</b><span data-i18n="seasonShort">temporada</span></div>
+  </div>
+</section>
+
+<section id="results" class="results"></section>
+
+<section class="method">
+  <h2 data-i18n="sourcesTitle">Fonts i criteri</h2>
+  <p data-i18n="sourcesText">Les categories s'han contrastat amb el llistat de competicions 2026–27 de JOK.cat i els partits programats de la Pista UE Horta. Les adreces només es mostren com a exactes quan s'han pogut contrastar amb dades publicades; en els altres casos s'ofereix una cerca de Google Maps sense inventar una adreça.</p>
+  <p data-i18n="staticText">Aplicació 100 % estàtica: no requereix servidor ni base de dades.</p>
+</section>
+</main>
+<footer data-i18n="footer">Daniel Roijals Lara · 2026–2027</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
