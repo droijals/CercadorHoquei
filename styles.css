@@ -40,3 +40,6 @@ header { position: relative; }
 }
 
 header{position:relative}.header-tools{display:flex;flex-direction:column;align-items:flex-end;gap:9px;margin-left:24px;min-width:220px}.language-switcher{position:static;display:flex;align-items:center;gap:7px;font-size:.78rem;font-weight:700;letter-spacing:.08em}.language-switcher .lang-btn{border:0;background:transparent;padding:2px;cursor:pointer;color:inherit;opacity:.55;font:inherit;letter-spacing:inherit}.language-switcher .lang-btn.active{opacity:1;text-decoration:underline;text-underline-offset:4px}.teaminfo .address,.teaminfo .phone{display:block;margin-top:4px}.teaminfo .phone{color:inherit;text-decoration:none}.teaminfo a.phone:hover{text-decoration:underline}.teaminfo .unavailable{opacity:.55}@media(max-width:700px){.header-tools{min-width:0;gap:6px}.source{font-size:.62rem;text-align:right}}
+.search{display:flex;align-items:center;gap:10px}
+.search-button{border:0;border-radius:10px;padding:10px 14px;background:#111827;color:#fff;font-weight:700;cursor:pointer}
+.search-button:hover{opacity:.9}
