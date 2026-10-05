@@ -15,7 +15,7 @@ const I18N = {
     sourcesTitle: "Fonts i criteri",
     sourcesText: "Les categories s'han contrastat amb el llistat de competicions 2026–27 de JOK.cat i els partits programats de la Pista UE Horta. Les adreces només es mostren com a exactes quan s'han pogut contrastar amb dades publicades; en els altres casos s'ofereix una cerca de Google Maps sense inventar una adreça.",
     staticText: "Aplicació 100 % estàtica: no requereix servidor ni base de dades.",
-    footer: "UE Horta · Hoquei Patins · 2026–2027",
+    footer: "Hoquei Patins · 2026–2027",
     masculine: "Masculí",
     feminine: "Femení",
     teams: "equips",
@@ -38,7 +38,7 @@ const I18N = {
     sourcesTitle: "Fuentes y criterio",
     sourcesText: "Las categorías se han contrastado con el listado de competiciones 2026–27 de JOK.cat y los partidos programados de la Pista UE Horta. Las direcciones solo se muestran como exactas cuando han podido contrastarse con datos publicados; en los demás casos se ofrece una búsqueda de Google Maps sin inventar una dirección.",
     staticText: "Aplicación 100 % estática: no requiere servidor ni base de datos.",
-    footer: "UE Horta · Hockey Patines · 2026–2027",
+    footer: "Hoquei Patins · 2026–2027",
     masculine: "Masculino",
     feminine: "Femenino",
     teams: "equipos",
@@ -57,7 +57,7 @@ let t = I18N[lang];
 function applyLanguage() {
   t = I18N[lang];
   document.documentElement.lang = lang;
-  document.title = lang === "ca" ? "Hoquei Patins · UE Horta · 2026–27" : "Hockey Patines · UE Horta · 2026–27";
+  document.title = lang === "ca" ? "Hoquei Patins · Daniel Roijals · 2026–27" : "Hoquei Patins · Daniel Roijals · 2026–27";
   document.querySelectorAll("[data-i18n]").forEach(el => {
     const key = el.dataset.i18n;
     if (t[key]) el.innerHTML = t[key];
