@@ -1,0 +1,17 @@
+{
+  "name": "Hoquei Patins UE Horta 2026–2027",
+  "short_name": "Hoquei UE Horta",
+  "lang": "ca",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
