@@ -15,7 +15,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Farners",
@@ -24,7 +24,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20N%C3%B2ria%2C%20s/n%2C%2017430%20Santa%20Coloma%20de%20Farners%2C%20Girona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/310_5.png",
           "verified": true,
-          "phone": ""
+          "phone": "686 47 33 24"
         },
         {
           "name": "Martinelia Manlleu",
@@ -42,7 +42,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20dels%20Esports%2C%20s/n%2C%2008470%20Sant%20Celoni%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "686 387 024"
         },
         {
           "name": "Ch Ripollet",
@@ -51,7 +51,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Rambla%20dels%20Pinetons%2C%201%2C%2008291%20Ripollet%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F278.gif&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "600 766 583"
         },
         {
           "name": "Club Patí Voltregà",
@@ -60,7 +60,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=C/%20Oliveras%20de%20la%20Riva%2C%20s/n%2C%2008512%20Sant%20Hip%C3%B2lit%20de%20Voltreg%C3%A0%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F29.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "93 850 26 54"
         },
         {
           "name": "Ce Torrelavit Font Packaging",
@@ -87,7 +87,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ctra.%20d%27Argentona%2C%20105%2C%2008340%20Vilassar%20de%20Mar%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Fescuts%2F49.webp&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "93 750 08 84"
         },
         {
           "name": "Ch Olot A",
@@ -121,7 +121,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Ch Mollerussa",
@@ -130,7 +130,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Tarragona%2C%2015%2C%2025230%20Mollerussa%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "676 990 721"
         },
         {
           "name": "Hc Valls Intec Enginyeria",
@@ -211,7 +211,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "93 470 59 45"
         },
         {
           "name": "Club Hoquei Prat",
@@ -220,7 +220,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Frederica%20Montseny%2C%202%2C%2008820%20El%20Prat%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F275.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "93 478 06 39"
         },
         {
           "name": "Hoquei Club Alpicat",
@@ -229,7 +229,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Av.%20del%20Parc%2C%2025110%20Alpicat%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/333.png",
           "verified": true,
-          "phone": ""
+          "phone": "645 869 079"
         },
         {
           "name": "Hc Castellar",
@@ -254,7 +254,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Cpi La Sagrera",
@@ -308,7 +308,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F443.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "642 00 15 52"
         }
       ]
     },
@@ -324,7 +324,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Generali Hc Palau",
@@ -342,7 +342,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=C/%20Oliveras%20de%20la%20Riva%2C%20s/n%2C%2008512%20Sant%20Hip%C3%B2lit%20de%20Voltreg%C3%A0%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F29.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "93 850 26 54"
         },
         {
           "name": "Club Patí Vilafranca AKO",
@@ -387,7 +387,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20Onze%20de%20Setembre%2C%20s/n%2C%2008880%20Cubelles%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F360_1.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "644 762 823"
         },
         {
           "name": "Hoquei Club Alpicat",
@@ -396,7 +396,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Av.%20del%20Parc%2C%2025110%20Alpicat%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/333.png",
           "verified": true,
-          "phone": ""
+          "phone": "645 869 079"
         },
         {
           "name": "Hc Castellar",
@@ -414,7 +414,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "93 592 15 51"
         },
         {
           "name": "Predecat Igualada Femení",
@@ -432,7 +432,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20del%20Raval%20Parruca%2C%201%2C%2008629%20Torrelles%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "687 550 739"
         },
         {
           "name": "Pons Lleida",
@@ -450,7 +450,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20l%27Urgell%2C%2072%2C%2008640%20Olesa%20de%20Montserrat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fhoqueihub.cat%2Fescuts%2F64.webp&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "635 67 36 94"
         },
         {
           "name": "Innoaesthetics Hc Sant Just",
@@ -459,7 +459,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "93 470 59 45"
         },
         {
           "name": "Oxigen Sant Cugat",
@@ -493,7 +493,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Club Hoquei Vilassar",
@@ -502,7 +502,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ctra.%20d%27Argentona%2C%20105%2C%2008340%20Vilassar%20de%20Mar%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Fescuts%2F49.webp&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "93 750 08 84"
         },
         {
           "name": "Ch Mataró",
@@ -529,7 +529,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20Onze%20de%20Setembre%2C%20s/n%2C%2008880%20Cubelles%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F360_1.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "644 762 823"
         }
       ]
     },
@@ -545,7 +545,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Vicio Sant Cugat C",
@@ -597,7 +597,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Joi Moner Sant Ramon",
@@ -633,7 +633,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Av.%20del%20Parc%2C%2025110%20Alpicat%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/333.png",
           "verified": true,
-          "phone": ""
+          "phone": "645 869 079"
         }
       ]
     },
@@ -649,7 +649,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Cp Masquefa",
@@ -683,7 +683,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Reus Deportiu B B",
@@ -726,7 +726,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Cp Vilanova",
@@ -769,7 +769,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Ce Noia Freixenet B",
@@ -830,7 +830,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Hoquei Claret C",
@@ -885,13 +885,22 @@ const DATA={
       "official": "FEM 15 PLATA",
       "teams": [
         {
+          "name": "Ceh Sabadell",
+          "city": "Sabadell",
+          "address": "Carrer de l'Estrella, 98, 08201 Sabadell, España",
+          "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20l%27Estrella%2C%2098%2C%2008201%20Sabadell%2C%20Espa%C3%B1a",
+          "logo": "",
+          "verified": true,
+          "phone": "657 682 214"
+        },
+        {
           "name": "Unió Esportiva d'Horta",
           "city": "08031 Barcelona",
           "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Pons Lleida",
@@ -961,7 +970,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Unió Esportiva d'Horta B",
@@ -970,7 +979,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Innoaesthetics Hc Sant Just",
@@ -979,7 +988,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "93 470 59 45"
         },
         {
           "name": "Generali Hc Palau B",
@@ -1015,7 +1024,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F443.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "642 00 15 52"
         },
         {
           "name": "Martinelia Manlleu",
@@ -1060,7 +1069,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20N%C3%B2ria%2C%20s/n%2C%2017430%20Santa%20Coloma%20de%20Farners%2C%20Girona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/310_5.png",
           "verified": true,
-          "phone": ""
+          "phone": "686 47 33 24"
         }
       ]
     },
@@ -1076,7 +1085,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Cp Corbera",
@@ -1112,7 +1121,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F443.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "642 00 15 52"
         },
         {
           "name": "Auto Vigatana Patí Vic",
@@ -1148,7 +1157,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20Onze%20de%20Setembre%2C%20s/n%2C%2008880%20Cubelles%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F360_1.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "644 762 823"
         },
         {
           "name": "Club Pati Calafell",
@@ -1157,7 +1166,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Uni%C3%B3%2C%20s/n%2C%2043820%20Calafell%2C%20Tarragona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F50.webp&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "693 237 272"
         },
         {
           "name": "Hoquei Patins Tona",
@@ -1166,7 +1175,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Jaume%20Balmes%2C%2057%2C%2008551%20Tona%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "609 924 822"
         },
         {
           "name": "Ch Olot A",
@@ -1184,7 +1193,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ctra.%20d%27Argentona%2C%20105%2C%2008340%20Vilassar%20de%20Mar%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Fescuts%2F49.webp&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "93 750 08 84"
         }
       ]
     },
@@ -1200,7 +1209,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Vicio Sant Cugat A",
@@ -1252,7 +1261,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Martinelia Manlleu C",
@@ -1295,7 +1304,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Ch Santa Perpètua A",
@@ -1374,7 +1383,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Hf Sant Josep Sant Sadurní A",
@@ -1410,7 +1419,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20Onze%20de%20Setembre%2C%20s/n%2C%2008880%20Cubelles%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F360_1.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "644 762 823"
         }
       ]
     },
@@ -1426,7 +1435,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Cp Malgrat Grup Escobar",
@@ -1469,7 +1478,7 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": ""
+          "phone": "93 427 64 79"
         },
         {
           "name": "Hc Montbui - Afiliat",

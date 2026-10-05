@@ -29,11 +29,12 @@
   <p class="eyebrow" data-i18n="season">TEMPORADA 2026–27</p>
   <h1 data-i18n="headline">Les categories de la UE Horta<br><em>i els seus clubs rivals</em></h1>
   <p class="lead" data-i18n="lead">Cerca per club, ciutat o localitat. Obre qualsevol fitxa i calcula la ruta des de la teva ubicació amb Google Maps.</p>
-  <div class="search">
-    <span>⌕</span>
+  <form class="search" id="searchForm" role="search">
+    <span aria-hidden="true">⌕</span>
     <input id="search" data-i18n-placeholder="searchPlaceholder" placeholder="Cerca per club, ciutat, localitat o adreça…" autocomplete="off">
+    <button type="submit" class="search-button" aria-label="Cercar" data-i18n="searchButton">Cercar</button>
     <kbd>Ctrl K</kbd>
-  </div>
+  </form>
   <div class="stats">
     <div><b id="catCount">0</b><span data-i18n="categories">categories</span></div>
     <div><b id="clubCount">0</b><span data-i18n="teamsListed">equips llistats</span></div>
