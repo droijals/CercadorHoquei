@@ -42,7 +42,7 @@ const DATA={
           "city": "",
           "address": "Pista coberta Camp Municipal d’Esports, Av. Catalunya, 14, 08470 Sant Celoni, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20dels%20Esports%2C%20s/n%2C%2008470%20Sant%20Celoni%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/club_pati_sant_celoni.webp",
           "verified": true,
           "phone": "686 387 024 / 629 378 311",
           "clubName": "Club Patí Sant Celoni"
@@ -61,7 +61,7 @@ const DATA={
           "city": "Barcelona",
           "address": "C/ Oliveras de la Riva, s/n, 08512 Sant Hipòlit de Voltregà, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=C/%20Oliveras%20de%20la%20Riva%2C%20s/n%2C%2008512%20Sant%20Hip%C3%B2lit%20de%20Voltreg%C3%A0%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F29.png&w=128",
+          "logo": "escuts/club_pati_voltrega.webp",
           "verified": true,
           "phone": "93 850 26 54 / 667 675 501",
           "clubName": "Club Patí Voltregà"
@@ -71,7 +71,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Carrer de les Escoles, s/n, 08775 Torrelavit, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Escoles%2C%20s/n%2C%2008775%20Torrelavit%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/torrelavit_font_packaging.webp",
           "verified": true,
           "phone": ""
         },
