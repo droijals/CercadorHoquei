@@ -350,7 +350,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Passeig de la Carrerada, 55, 08184 Palau-solità i Plegamans, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/hc_palau.webp",
           "verified": true,
           "phone": "",
           "clubName": "HC Palau"
@@ -360,7 +360,7 @@ const DATA={
           "city": "Barcelona",
           "address": "C/ Oliveras de la Riva, s/n, 08512 Sant Hipòlit de Voltregà, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=C/%20Oliveras%20de%20la%20Riva%2C%20s/n%2C%2008512%20Sant%20Hip%C3%B2lit%20de%20Voltreg%C3%A0%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F29.png&w=128",
+          "logo": "escuts/club_pati_voltrega.webp",
           "verified": true,
           "phone": "93 850 26 54 / 667 675 501",
           "clubName": "Club Patí Voltregà"
@@ -370,7 +370,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Rambla de Sant Francesc, 24, 08720 Vilafranca del Penedès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Av.%20Catalunya%2C%20s/n%2C%2008720%20Vilafranca%20del%20Pened%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_vilafranca.webp",
           "verified": true,
           "phone": "665 371 773",
           "clubName": "Club Patí Vilafranca"
@@ -389,7 +389,7 @@ const DATA={
           "city": "",
           "address": "Avinguda Escoles, s/n, 08182 Sant Feliu de Codines, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20Escoles%2C%20s/n%2C%2008182%20Sant%20Feliu%20de%20Codines%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/chp_sant_feliu.webp",
           "verified": true,
           "phone": ""
         },
@@ -398,7 +398,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Carrer Faraday, 41, 08224 Terrassa, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Faraday%2C%2041%2C%2008224%20Terrassa%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/sferic.webp",
           "verified": true,
           "phone": "",
           "clubName": "Sferic Terrassa"
@@ -436,7 +436,7 @@ const DATA={
           "city": "",
           "address": "Pavelló Municipal Can Xarau, Cerdanyola del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cerdanyola.webp",
           "verified": true,
           "phone": "93 592 15 51",
           "clubName": "Cerdanyola Club d’Hoquei"
@@ -446,7 +446,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Predecat%20Igualada%20Femen%C3%AD%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/igualada_femeni.webp",
           "verified": false,
           "phone": ""
         },
@@ -455,7 +455,7 @@ const DATA={
           "city": "",
           "address": "Carrer del Raval Parruca, 1, 08629 Torrelles de Llobregat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20del%20Raval%20Parruca%2C%201%2C%2008629%20Torrelles%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_torrelles.webp",
           "verified": true,
           "phone": "687 550 739"
         },
@@ -464,7 +464,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pons%20Lleida%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/pons_lleida.webp",
           "verified": false,
           "phone": "",
           "clubName": "Pons Lleida"
@@ -483,7 +483,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/sant_just_hc.webp",
           "verified": true,
           "phone": "93 470 59 45",
           "clubName": "Hoquei Club Sant Just"
@@ -493,7 +493,7 @@ const DATA={
           "city": "",
           "address": "Avinguda de l'Àguila, 9, 08197 Sant Cugat del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/phc_sant_cugat.webp",
           "verified": true,
           "phone": "",
           "clubName": "PHC Sant Cugat"
@@ -503,7 +503,7 @@ const DATA={
           "city": "",
           "address": "Plaça Major, 1, 25245 Vila-sana, Lleida, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pla%C3%A7a%20Major%2C%201%2C%2025245%20Vila-sana%2C%20Lleida%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_vila_sana.webp",
           "verified": true,
           "phone": ""
         }
