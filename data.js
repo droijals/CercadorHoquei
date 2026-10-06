@@ -1294,7 +1294,7 @@ const DATA={
           "city": "",
           "address": "Carrer de l'Església, s/n, 08776 Sant Pere de Riudebitlles, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20l%27Esgl%C3%A9sia%2C%20s/n%2C%2008776%20Sant%20Pere%20de%20Riudebitlles%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_riudebitlles.webp",
           "verified": true,
           "phone": ""
         },
@@ -1313,7 +1313,7 @@ const DATA={
           "city": "",
           "address": "Plaça d'Albert Badia i Mur, 16, 08027 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pla%C3%A7a%20d%27Albert%20Badia%20i%20Mur%2C%2016%2C%2008027%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/congres_cp.webp",
           "verified": true,
           "phone": ""
         }
