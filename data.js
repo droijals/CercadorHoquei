@@ -976,7 +976,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Joi%20Trias%20Igualada%20Fhcp%20B%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/igualada_femeni.webp",
           "verified": false,
           "phone": ""
         },
@@ -995,7 +995,7 @@ const DATA={
           "city": "",
           "address": "Carrer Poca Farina, s/n, 08181 Sentmenat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Poca%20Farina%2C%20s/n%2C%2008181%20Sentmenat%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/hc_sentmenat.webp",
           "verified": true,
           "phone": "",
           "clubName": "Hoquei Club Sentmenat"
