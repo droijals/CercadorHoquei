@@ -1024,7 +1024,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta A"
         },
         {
           "name": "Unió Esportiva d'Horta B",
@@ -1034,7 +1034,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta B"
         },
         {
           "name": "Innoaesthetics Hc Sant Just",
