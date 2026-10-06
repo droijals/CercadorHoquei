@@ -893,7 +893,7 @@ const DATA={
           "city": "",
           "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "escuts/hc_sant_just.webp",
+          "logo": "escuts/sant_just_hc.webp",
           "verified": true,
           "phone": "93 470 59 45",
           "clubName": "Hoquei Club Sant Just"
