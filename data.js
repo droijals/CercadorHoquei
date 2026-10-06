@@ -133,7 +133,7 @@ const DATA={
           "city": "Lleida",
           "address": "C/ Tarragona, 15, 25230 Mollerussa, Lleida, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Tarragona%2C%2015%2C%2025230%20Mollerussa%2C%20Lleida%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/club_pati_mollerussa.webp",
           "verified": true,
           "phone": "676 990 721",
           "clubName": "Club Hoquei Mollerussa"
@@ -143,7 +143,7 @@ const DATA={
           "city": "Tarragona",
           "address": "Carrer Prat de la Riba, 15, 43800 Valls, Tarragona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Prat%20de%20la%20Riba%2C%2015%2C%2043800%20Valls%2C%20Tarragona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/hc_valls.webp",
           "verified": true,
           "phone": "",
           "clubName": "HC Valls"
@@ -153,7 +153,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Carrer Faraday, 41, 08224 Terrassa, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Faraday%2C%2041%2C%2008224%20Terrassa%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/sferic.webp",
           "verified": true,
           "phone": "",
           "clubName": "Sferic Terrassa"
@@ -163,7 +163,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Carrer de Can Fàbregas, 1-3, 08100 Mollet del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Can%20F%C3%A0bregas%2C%201-3%2C%2008100%20Mollet%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/mollethc.webp",
           "verified": true,
           "phone": "",
           "clubName": "Mollet HC"
@@ -191,7 +191,7 @@ const DATA={
           "city": "Tarragona",
           "address": "C/ Mont Caro, 2, 43206 Reus, Tarragona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Mont%20Caro%2C%202-6%2C%2043206%20Reus%2C%20Tarragona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/olimpic_reus.webp",
           "verified": true,
           "phone": "679 048 104",
           "clubName": "Club Esportiu Hoquei Olímpic Reus"
@@ -201,7 +201,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Carrer Santa Maria del Camí, 53, 08530 La Garriga, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Santa%20Maria%20del%20Cam%C3%AD%2C%2053%2C%2008530%20La%20Garriga%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
+          "logo": "escuts/ue_la_garriga.webp",
           "verified": true,
           "phone": ""
         },
@@ -210,7 +210,7 @@ const DATA={
           "city": "Barcelona",
           "address": "C/ Josep Rovira, 14, 08770 Sant Sadurní d’Anoia, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Josep%20Rovira%2C%2014%2C%2008770%20Sant%20Sadurn%C3%AD%20d%27Anoia%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://pbs.twimg.com/profile_images/1729047062723878912/2LYZ8NRz_400x400.jpg",
+          "logo": "escuts/noia_freixenet.webp",
           "verified": true,
           "phone": "93 891 27 89",
           "clubName": "Club Esportiu Noia Freixenet"
@@ -220,7 +220,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/sant_just_hc.webp",
           "verified": true,
           "phone": "93 470 59 45",
           "clubName": "Hoquei Club Sant Just"
