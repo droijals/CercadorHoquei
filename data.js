@@ -529,7 +529,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Ctra. d'Argentona, 105, 08340 Vilassar de Mar, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ctra.%20d%27Argentona%2C%20105%2C%2008340%20Vilassar%20de%20Mar%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Fescuts%2F49.webp&w=128",
+          "logo": "escuts/club_hoquei_vilassar.webp",
           "verified": true,
           "phone": "93 750 08 84"
         },
