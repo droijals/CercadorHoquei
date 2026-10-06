@@ -1116,7 +1116,7 @@ const DATA={
           "city": "",
           "address": "Passeig Països Catalans, s/n, 17190 Salt, Girona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20Pa%C3%AFsos%20Catalans%2C%20s/n%2C%2017190%20Salt%2C%20Girona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/hc_salt.webp",
           "verified": true,
           "phone": "",
           "clubName": "Hoquei Club Salt"
