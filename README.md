@@ -10,4 +10,5 @@ Webapp estàtica de les categories i clubs vinculats als calendaris 2026–2027 
 - No requereix servidor ni base de dades.
 
 Obre `index.html`.
+
 Feta per una IA: 2 minuts la sortida inicial, i després he invertit algo de temps en petits refinaments (...)
