@@ -1172,7 +1172,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Josep Aguilera i Martí, 2, 17002 Girona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Josep%20Aguilera%20i%20Mart%C3%AD%2C%202%2C%2017002%20Girona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/girona_ch.webp",
           "verified": true,
           "phone": "",
           "clubName": "Girona Club Hoquei"
@@ -1230,7 +1230,7 @@ const DATA={
           "city": "",
           "address": "Passeig de la Unió, s/n, 43820 Calafell, Tarragona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Uni%C3%B3%2C%20s/n%2C%2043820%20Calafell%2C%20Tarragona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F50.webp&w=128",
+          "logo": "escuts/cp_calafell.webp",
           "verified": true,
           "phone": "693 237 272"
         },
@@ -1258,7 +1258,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Ctra. d'Argentona, 105, 08340 Vilassar de Mar, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ctra.%20d%27Argentona%2C%20105%2C%2008340%20Vilassar%20de%20Mar%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Fescuts%2F49.webp&w=128",
+          "logo": "escuts/club_hoquei_vilassar.webp",
           "verified": true,
           "phone": "93 750 08 84"
         }
