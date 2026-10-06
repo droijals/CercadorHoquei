@@ -324,7 +324,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Sant Antoni Maria Claret, 49, 08025 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F443.png&w=128",
+          "logo": "escuts/ch_claret.webp",
           "verified": true,
           "phone": "642 00 15 52"
         }
@@ -783,7 +783,7 @@ const DATA={
           "city": "",
           "address": "Plaça Major, 8, 25220 Bell-lloc d'Urgell, Lleida, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pla%C3%A7a%20Major%2C%208%2C%2025220%20Bell-lloc%20d%27Urgell%2C%20Lleida%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_bell_lloc.webp",
           "verified": true,
           "phone": ""
         },
@@ -828,7 +828,7 @@ const DATA={
           "city": "",
           "address": "Carrer de la Rambla, 15, 08519 Folgueroles, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20la%20Rambla%2C%2015%2C%2008519%20Folgueroles%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_folgueroles.webp",
           "verified": true,
           "phone": ""
         },
@@ -883,7 +883,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Sant Antoni Maria Claret, 49, 08025 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F443.png&w=128",
+          "logo": "escuts/ch_claret.webp",
           "verified": true,
           "phone": "642 00 15 52",
           "clubName": "Club Hoquei Claret Barcelona"
@@ -921,7 +921,7 @@ const DATA={
           "city": "",
           "address": "Carrer del Telègraf, 31, 08041 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20del%20Tel%C3%A8graf%2C%2031%2C%2008041%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/fc_martinenc.webp",
           "verified": true,
           "phone": ""
         }
@@ -937,7 +937,7 @@ const DATA={
           "city": "Sabadell",
           "address": "Camí de Can Quadras, s/n, 08201 Sabadell, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20l%27Estrella%2C%2098%2C%2008201%20Sabadell%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/ceh_sabadell.webp",
           "verified": true,
           "phone": "657 682 214",
           "clubName": "Club Esportiu Hoquei Sabadell"
@@ -1079,7 +1079,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Sant Antoni Maria Claret, 49, 08025 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F443.png&w=128",
+          "logo": "escuts/ch_claret.webp",
           "verified": true,
           "phone": "642 00 15 52"
         },
@@ -1182,7 +1182,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Sant Antoni Maria Claret, 49, 08025 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F443.png&w=128",
+          "logo": "escuts/ch_claret.webp",
           "verified": true,
           "phone": "642 00 15 52"
         },
@@ -1476,7 +1476,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Sant Sebastià, 55, 08030 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Sebasti%C3%A0%2C%2055%2C%2008030%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/jesus_maria_i_josep.webp",
           "verified": true,
           "phone": ""
         },
