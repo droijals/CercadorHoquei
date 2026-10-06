@@ -522,7 +522,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta A"
         },
         {
           "name": "Club Hoquei Vilassar",
@@ -577,7 +577,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta B"
         },
         {
           "name": "Vicio Sant Cugat C",
@@ -632,7 +632,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta A"
         },
         {
           "name": "Joi Moner Sant Ramon",
@@ -687,7 +687,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta B"
         },
         {
           "name": "Cp Masquefa",
@@ -722,7 +722,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta A"
         },
         {
           "name": "Reus Deportiu B B",
@@ -767,7 +767,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta B"
         },
         {
           "name": "Cp Vilanova",
@@ -811,7 +811,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta A"
         },
         {
           "name": "Ce Noia Freixenet B",
@@ -876,7 +876,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta B"
         },
         {
           "name": "Hoquei Claret C",
@@ -1277,7 +1277,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta A"
         },
         {
           "name": "Vicio Sant Cugat A",
@@ -1332,7 +1332,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta C"
         },
         {
           "name": "Martinelia Manlleu C",
@@ -1377,7 +1377,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta B"
         },
         {
           "name": "Ch Santa Perpètua A",
@@ -1513,7 +1513,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta B"
         },
         {
           "name": "Cp Malgrat Grup Escobar",
@@ -1559,7 +1559,7 @@ const DATA={
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
           "phone": "93 427 64 79",
-          "clubName": "Unió Esportiva d'Horta"
+          "clubName": "Unió Esportiva d'Horta A"
         },
         {
           "name": "Hc Montbui - Afiliat",
