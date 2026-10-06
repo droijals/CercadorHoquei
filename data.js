@@ -1467,7 +1467,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Hf%20Sant%20Josep%20Sant%20Sadurn%C3%AD%20A%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/sant_josep_sant_sadurni.webp",
           "verified": false,
           "phone": ""
         },
