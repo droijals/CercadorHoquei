@@ -694,7 +694,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Santa Clara, s/n, 08783 Masquefa, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Santa%20Clara%2C%20s/n%2C%2008783%20Masquefa%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_masquefa.webp",
           "verified": true,
           "phone": ""
         },
