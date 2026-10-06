@@ -658,7 +658,7 @@ const DATA={
           "city": "",
           "address": "Passeig de la Carrerada, 55, 08184 Palau-solità i Plegamans, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/hc_palau.webp",
           "verified": true,
           "phone": "",
           "clubName": "HC Palau"
@@ -1051,7 +1051,7 @@ const DATA={
           "city": "",
           "address": "Passeig de la Carrerada, 55, 08184 Palau-solità i Plegamans, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/hc_palau.webp",
           "verified": true,
           "phone": "",
           "clubName": "HC Palau"
@@ -1162,7 +1162,7 @@ const DATA={
           "city": "",
           "address": "Passeig de la Carrerada, 55, 08184 Palau-solità i Plegamans, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/hc_palau.webp",
           "verified": true,
           "phone": "",
           "clubName": "HC Palau"
