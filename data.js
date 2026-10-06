@@ -10,7 +10,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta",
-          "city": "08031 Barcelona",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -39,7 +39,7 @@ const DATA={
         },
         {
           "name": "Cp Sant Celoni",
-          "city": "",
+          "city": "Barcelona",
           "address": "Pista coberta Camp Municipal d’Esports, Av. Catalunya, 14, 08470 Sant Celoni, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20dels%20Esports%2C%20s/n%2C%2008470%20Sant%20Celoni%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/club_pati_sant_celoni.webp",
@@ -77,7 +77,7 @@ const DATA={
         },
         {
           "name": "Rototank Bigues i Riells",
-          "city": "",
+          "city": "Barcelona",
           "address": "Camí del Veïnat, núm. 5, 08415 Bigues, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cam%C3%AD%20del%20Ve%C3%AFnat%2C%20n%C3%BAm.%205%2C%2008415%20Bigues%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/bigues_i_riells_chp.webp",
@@ -104,8 +104,8 @@ const DATA={
         },
         {
           "name": "Cpi Espanyol",
-          "city": "",
-          "address": "",
+          "city": "Barcelona",
+          "address": "Pista Municipal La Sagrera, Carrer d'Hondures, 18, Sant Andreu, 08027 Barcelona",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cpi%20Espanyol%20hockey%20patins",
           "logo": "escuts/cpi_espanyol.webp",
           "verified": false,
@@ -120,7 +120,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta",
-          "city": "08031 Barcelona",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -263,7 +263,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta",
-          "city": "08031 Barcelona",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -273,7 +273,7 @@ const DATA={
         },
         {
           "name": "Cpi La Sagrera",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer d'Hondures, 2, 08027 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20d%27Hondures%2C%202%2C%2008027%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2Fhoqueihub.cat%2Fescuts%2F143.webp&w=128",
@@ -282,7 +282,7 @@ const DATA={
         },
         {
           "name": "Innoaesthetics Hc Sant Just A",
-          "city": "",
+          "city": "Barcelona",
           "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/sant_just_hc.webp",
@@ -302,7 +302,7 @@ const DATA={
         },
         {
           "name": "Fenie Energia Cerdanyola Cch",
-          "city": "08027 Barcelona",
+          "city": "Barcelona",
           "address": "Carrer de les Camèlies, s/n, 08290 Cerdanyola del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/cerdanyola.webp",
@@ -321,7 +321,7 @@ const DATA={
         },
         {
           "name": "Hoquei Claret",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de Sant Antoni Maria Claret, 49, 08025 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/ch_claret.webp",
@@ -337,7 +337,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta",
-          "city": "08031 Barcelona",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -377,7 +377,7 @@ const DATA={
         },
         {
           "name": "Rototank Bigues i Riells",
-          "city": "",
+          "city": "Barcelona",
           "address": "Camí del Veïnat, núm. 5, 08415 Bigues, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cam%C3%AD%20del%20Ve%C3%AFnat%2C%20n%C3%BAm.%205%2C%2008415%20Bigues%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/bigues_i_riells_chp.webp",
@@ -386,7 +386,7 @@ const DATA={
         },
         {
           "name": "Chp Sant Feliu",
-          "city": "",
+          "city": "Barcelona",
           "address": "Avinguda Escoles, s/n, 08182 Sant Feliu de Codines, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20Escoles%2C%20s/n%2C%2008182%20Sant%20Feliu%20de%20Codines%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/chp_sant_feliu.webp",
@@ -433,7 +433,7 @@ const DATA={
         },
         {
           "name": "Cerdanyola Club d'Hoquei",
-          "city": "",
+          "city": "Barcelona",
           "address": "Pavelló Municipal Can Xarau, Cerdanyola del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/cerdanyola.webp",
@@ -443,8 +443,8 @@ const DATA={
         },
         {
           "name": "Predecat Igualada Femení",
-          "city": "",
-          "address": "",
+          "city": "Barcelona",
+          "address": "Igualada Hoquei Club - IHC - Pavello, Carrer de Carles Riba, 68, 08700 Igualada, Barcelona",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Predecat%20Igualada%20Femen%C3%AD%20hockey%20patins",
           "logo": "escuts/igualada_femeni.webp",
           "verified": false,
@@ -452,7 +452,7 @@ const DATA={
         },
         {
           "name": "Club Patí Torrelles",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer del Raval Parruca, 1, 08629 Torrelles de Llobregat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20del%20Raval%20Parruca%2C%201%2C%2008629%20Torrelles%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_torrelles.webp",
@@ -461,8 +461,8 @@ const DATA={
         },
         {
           "name": "Pons Lleida",
-          "city": "",
-          "address": "",
+          "city": "Lleida",
+          "address": "Llista Blava Hoquei, Passeig de l'Onze de Setembre, 12, 25199 Lleida",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pons%20Lleida%20hockey%20patins",
           "logo": "escuts/pons_lleida.webp",
           "verified": false,
@@ -471,7 +471,7 @@ const DATA={
         },
         {
           "name": "Club Olesa Pati",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de l'Urgell, 72, 08640 Olesa de Montserrat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20l%27Urgell%2C%2072%2C%2008640%20Olesa%20de%20Montserrat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fhoqueihub.cat%2Fescuts%2F64.webp&w=128",
@@ -490,7 +490,7 @@ const DATA={
         },
         {
           "name": "Oxigen Sant Cugat",
-          "city": "",
+          "city": "Barcelona",
           "address": "Avinguda de l'Àguila, 9, 08197 Sant Cugat del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/phc_sant_cugat.webp",
@@ -500,7 +500,7 @@ const DATA={
         },
         {
           "name": "Cp Vila-Sana",
-          "city": "",
+          "city": "Lleida",
           "address": "Plaça Major, 1, 25245 Vila-sana, Lleida, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pla%C3%A7a%20Major%2C%201%2C%2025245%20Vila-sana%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_vila_sana.webp",
@@ -516,7 +516,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta A",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -535,7 +535,7 @@ const DATA={
         },
         {
           "name": "Ch Mataró",
-          "city": "",
+          "city": "Barcelona",
           "address": "Corregiment, 62, 08304 Mataró, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20del%20Corregiment%20de%20Matar%C3%B3%2C%2062%2C%2008304%20Matar%C3%B3%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://pbs.twimg.com/profile_images/1262382629665505281/h9VZybRH.jpg",
@@ -571,7 +571,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta B",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -581,7 +581,7 @@ const DATA={
         },
         {
           "name": "Vicio Sant Cugat C",
-          "city": "",
+          "city": "Barcelona",
           "address": "Avinguda de l'Àguila, 9, 08197 Sant Cugat del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/phc_sant_cugat.webp",
@@ -591,7 +591,7 @@ const DATA={
         },
         {
           "name": "Auto Vigatana Patí Vic A",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de Gandesa, 3, 08500 Vic, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Auto%20Vigatana%20Pat%C3%AD%20Vic%20A%20hockey%20patins",
           "logo": "escuts/vic_hc.webp",
@@ -601,7 +601,7 @@ const DATA={
         },
         {
           "name": "Martinelia Manlleu B",
-          "city": "",
+          "city": "Barcelona",
           "address": "Passeig del Ter, s/n, 08560 Manlleu, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20del%20Ter%2C%20s/n%2C%2008560%20Manlleu%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/martinelia_manlleu.webp",
@@ -610,7 +610,7 @@ const DATA={
         },
         {
           "name": "Ch Caldes Recam Làser C",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de la Torre Roja, s/n, 08140 Caldes de Montbui, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20la%20Torre%20Roja%2C%20s/n%2C%2008140%20Caldes%20de%20Montbui%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/caldes_recam.webp",
@@ -626,7 +626,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta A",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -645,7 +645,7 @@ const DATA={
         },
         {
           "name": "Farners A",
-          "city": "",
+          "city": "Girona",
           "address": "Passeig de la Nòria, s/n, 17430 Santa Coloma de Farners, Girona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Farners%20A%20hockey%20patins",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/310_5.png",
@@ -655,7 +655,7 @@ const DATA={
         },
         {
           "name": "Generali Hc Palau A",
-          "city": "",
+          "city": "Barcelona",
           "address": "Passeig de la Carrerada, 55, 08184 Palau-solità i Plegamans, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/hc_palau.webp",
@@ -681,7 +681,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta B",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -691,7 +691,7 @@ const DATA={
         },
         {
           "name": "Cp Masquefa",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de Santa Clara, s/n, 08783 Masquefa, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Santa%20Clara%2C%20s/n%2C%2008783%20Masquefa%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_masquefa.webp",
@@ -700,8 +700,8 @@ const DATA={
         },
         {
           "name": "Cp Voltregà B",
-          "city": "",
-          "address": "",
+          "city": "Barcelona",
+          "address": "Passatge Victorià Oliveras de la Riva, 08512 Sant Hipòlit de Voltregà, Barcelona",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cp%20Voltreg%C3%A0%20B%20hockey%20patins",
           "logo": "escuts/club_pati_voltrega.webp",
           "verified": false,
@@ -716,7 +716,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta A",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -726,8 +726,8 @@ const DATA={
         },
         {
           "name": "Reus Deportiu B B",
-          "city": "",
-          "address": "",
+          "city": "Tarragona",
+          "address": "Reus Deportiu, Carrer d'Antoni Gaudí, 66, 43203 Reus, Tarragona",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Reus%20Deportiu%20B%20B%20hockey%20patins",
           "logo": "escuts/reus_deportiu.webp",
           "verified": false,
@@ -735,7 +735,7 @@ const DATA={
         },
         {
           "name": "Ce Noia Freixenet E",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/ Josep Rovira, 14, 08770 Sant Sadurní d’Anoia, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Noia%20Freixenet%20E%20hockey%20patins",
           "logo": "escuts/noia_freixenet.webp",
@@ -761,7 +761,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta B",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -771,7 +771,7 @@ const DATA={
         },
         {
           "name": "Cp Vilanova",
-          "city": "",
+          "city": "Barcelona",
           "address": "Ronda Ibèrica, s/n, 08800 Vilanova i la Geltrú, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ronda%20Ib%C3%A8rica%2C%20s/n%2C%2008800%20Vilanova%20i%20la%20Geltr%C3%BA%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_vilanova.webp",
@@ -780,7 +780,7 @@ const DATA={
         },
         {
           "name": "Cp Bell-Lloc B",
-          "city": "",
+          "city": "Lleida",
           "address": "Plaça Major, 8, 25220 Bell-lloc d'Urgell, Lleida, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pla%C3%A7a%20Major%2C%208%2C%2025220%20Bell-lloc%20d%27Urgell%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_bell_lloc.webp",
@@ -805,7 +805,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta A",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -815,7 +815,7 @@ const DATA={
         },
         {
           "name": "Ce Noia Freixenet B",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/ Josep Rovira, 14, 08770 Sant Sadurní d’Anoia, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Noia%20Freixenet%20B%20hockey%20patins",
           "logo": "escuts/noia_freixenet.webp",
@@ -825,7 +825,7 @@ const DATA={
         },
         {
           "name": "Cp Folgueroles A",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de la Rambla, 15, 08519 Folgueroles, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20la%20Rambla%2C%2015%2C%2008519%20Folgueroles%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_folgueroles.webp",
@@ -834,7 +834,7 @@ const DATA={
         },
         {
           "name": "Hoquei Mollerussa-Tàrrega A",
-          "city": "",
+          "city": "Lleida",
           "address": "Carrer de Tarragona, 15, 25230 Mollerussa, Lleida, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Tarragona%2C%2015%2C%2025230%20Mollerussa%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "",
@@ -844,7 +844,7 @@ const DATA={
         },
         {
           "name": "Hc Castellar A",
-          "city": "",
+          "city": "Barcelona",
           "address": "C. de Sant Feliu, 2, 08211 Castellar del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Hc%20Castellar%20A%20hockey%20patins",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F241_2.png&w=128",
@@ -870,7 +870,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta B",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -880,7 +880,7 @@ const DATA={
         },
         {
           "name": "Hoquei Claret C",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de Sant Antoni Maria Claret, 49, 08025 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/ch_claret.webp",
@@ -890,7 +890,7 @@ const DATA={
         },
         {
           "name": "Innoaesthetics Hc Sant Just B",
-          "city": "",
+          "city": "Barcelona",
           "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/sant_just_hc.webp",
@@ -900,8 +900,8 @@ const DATA={
         },
         {
           "name": "Cpi La Sagrera B",
-          "city": "",
-          "address": "",
+          "city": "Barcelona",
+          "address": "Carrer d'Hondures, 2, 08027 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cpi%20La%20Sagrera%20B%20hockey%20patins",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2Fhoqueihub.cat%2Fescuts%2F143.webp&w=128",
           "verified": false,
@@ -909,7 +909,7 @@ const DATA={
         },
         {
           "name": "Jesus Maria I Josep E",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de Sant Sebastià, 55, 08030 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Sebasti%C3%A0%2C%2055%2C%2008030%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/jesus_maria_i_josep.webp",
@@ -918,7 +918,7 @@ const DATA={
         },
         {
           "name": "Futbol Club Martinenc A A",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer del Telègraf, 31, 08041 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20del%20Tel%C3%A8graf%2C%2031%2C%2008041%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/fc_martinenc.webp",
@@ -934,7 +934,7 @@ const DATA={
       "teams": [
         {
           "name": "Ceh Sabadell",
-          "city": "Sabadell",
+          "city": "Barcelona",
           "address": "Camí de Can Quadras, s/n, 08201 Sabadell, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20l%27Estrella%2C%2098%2C%2008201%20Sabadell%2C%20Espa%C3%B1a",
           "logo": "escuts/ceh_sabadell.webp",
@@ -944,7 +944,7 @@ const DATA={
         },
         {
           "name": "Unió Esportiva d'Horta",
-          "city": "08031 Barcelona",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -954,8 +954,8 @@ const DATA={
         },
         {
           "name": "Pons Lleida",
-          "city": "",
-          "address": "",
+          "city": "Lleida",
+          "address": "Llista Blava Hoquei, Passeig de l'Onze de Setembre, 12, 25199 Lleida",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pons%20Lleida%20hockey%20patins",
           "logo": "escuts/pons_lleida.webp",
           "verified": false,
@@ -964,7 +964,7 @@ const DATA={
         },
         {
           "name": "Cp Riudoms",
-          "city": "",
+          "city": "Tarragona",
           "address": "Carrer de Salvador Espriu, s/n, 43330 Riudoms, Tarragona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Salvador%20Espriu%2C%20s/n%2C%2043330%20Riudoms%2C%20Tarragona%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_riudoms.webp",
@@ -973,8 +973,8 @@ const DATA={
         },
         {
           "name": "Joi Trias Igualada Fhcp B",
-          "city": "",
-          "address": "",
+          "city": "Barcelona",
+          "address": "Plaça de la Creu, 22, 08700 Igualada, Barcelona",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Joi%20Trias%20Igualada%20Fhcp%20B%20hockey%20patins",
           "logo": "escuts/igualada_femeni.webp",
           "verified": false,
@@ -992,7 +992,7 @@ const DATA={
         },
         {
           "name": "Hcsentmenat",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer Poca Farina, s/n, 08181 Sentmenat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Poca%20Farina%2C%20s/n%2C%2008181%20Sentmenat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/hc_sentmenat.webp",
@@ -1002,7 +1002,7 @@ const DATA={
         },
         {
           "name": "Ch Lloret Cafès Cornellà",
-          "city": "",
+          "city": "Girona",
           "address": "Carrer dels Mestres, 29, 17310 Lloret de Mar, Girona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20dels%20Mestres%2C%2029%2C%2017310%20Lloret%20de%20Mar%2C%20Girona%2C%20Espa%C3%B1a",
           "logo": "escuts/ch_lloret.webp",
@@ -1018,7 +1018,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta A",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -1028,7 +1028,7 @@ const DATA={
         },
         {
           "name": "Unió Esportiva d'Horta B",
-          "city": "",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -1048,7 +1048,7 @@ const DATA={
         },
         {
           "name": "Generali Hc Palau B",
-          "city": "",
+          "city": "Barcelona",
           "address": "Passeig de la Carrerada, 55, 08184 Palau-solità i Plegamans, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/hc_palau.webp",
@@ -1058,7 +1058,7 @@ const DATA={
         },
         {
           "name": "Cp Vila-Sana B",
-          "city": "",
+          "city": "Lleida",
           "address": "Plaça Major, 1, 25245 Vila-sana, Lleida, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pla%C3%A7a%20Major%2C%201%2C%2025245%20Vila-sana%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_vila_sana.webp",
@@ -1076,7 +1076,7 @@ const DATA={
         },
         {
           "name": "Hoquei Claret",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de Sant Antoni Maria Claret, 49, 08025 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/ch_claret.webp",
@@ -1094,7 +1094,7 @@ const DATA={
         },
         {
           "name": "Fenie Energia Cerdanyola Cch B",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de les Camèlies, s/n, 08290 Cerdanyola del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/cerdanyola.webp",
@@ -1104,7 +1104,7 @@ const DATA={
         },
         {
           "name": "Gili Igualada Femení Hcp A",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de la Pobla de Claramunt, 3-4, 08700 Igualada, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20la%20Pobla%20de%20Claramunt%2C%203-4%2C%2008700%20Igualada%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/igualada_femeni.webp",
@@ -1113,7 +1113,7 @@ const DATA={
         },
         {
           "name": "Oxford Hc Salt",
-          "city": "",
+          "city": "Girona",
           "address": "Passeig Països Catalans, s/n, 17190 Salt, Girona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20Pa%C3%AFsos%20Catalans%2C%20s/n%2C%2017190%20Salt%2C%20Girona%2C%20Espa%C3%B1a",
           "logo": "escuts/hc_salt.webp",
@@ -1140,7 +1140,7 @@ const DATA={
       "teams": [
         {
           "name": "Unió Esportiva d'Horta",
-          "city": "08031 Barcelona",
+          "city": "Barcelona",
           "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
@@ -1150,7 +1150,7 @@ const DATA={
         },
         {
           "name": "Cp Corbera",
-          "city": "",
+          "city": "Barcelona",
           "address": "Avinguda Josep Tarradellas, s/n, 08757 Corbera de Llobregat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20Josep%20Tarradellas%2C%20s/n%2C%2008757%20Corbera%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_corbera.webp",
@@ -1159,7 +1159,7 @@ const DATA={
         },
         {
           "name": "Generali Hc Palau B",
-          "city": "",
+          "city": "Barcelona",
           "address": "Passeig de la Carrerada, 55, 08184 Palau-solità i Plegamans, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/hc_palau.webp",
@@ -1169,7 +1169,7 @@ const DATA={
         },
         {
           "name": "Girona Club Hoquei",
-          "city": "",
+          "city": "Girona",
           "address": "Carrer de Josep Aguilera i Martí, 2, 17002 Girona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Josep%20Aguilera%20i%20Mart%C3%AD%2C%202%2C%2017002%20Girona%2C%20Espa%C3%B1a",
           "logo": "escuts/girona_ch.webp",
@@ -1179,7 +1179,7 @@ const DATA={
         },
         {
           "name": "Hoquei Claret",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de Sant Antoni Maria Claret, 49, 08025 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/ch_claret.webp",
@@ -1188,7 +1188,7 @@ const DATA={
         },
         {
           "name": "Auto Vigatana Patí Vic",
-          "city": "",
+          "city": "Barcelona",
           "address": "Carrer de Gandesa, 3, 08500 Vic, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Gandesa%2C%203%2C%2008500%20Vic%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/vic_hc.webp",
@@ -1198,7 +1198,7 @@ const DATA={
         },
         {
           "name": "Innoaesthetics Hc Sant Just B",
-          "city": "",
+          "city": "Barcelona",
           "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "escuts/sant_just_hc.webp",
@@ -1208,7 +1208,7 @@ const DATA={
         },
         {
           "name": "Ce Sagrerenc",
-          "city": "",
+          "city": "Barcelona",
           "address": "C. Hondures, 2, 08027 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Sagrerenc%20hockey%20patins",
           "logo": "escuts/ce_sagrerenc.webp",
@@ -1227,7 +1227,7 @@ const DATA={
         },
         {
           "name": "Club Pati Calafell",
-          "city": "",
+          "city": "Tarragona",
           "address": "Passeig de la Unió, s/n, 43820 Calafell, Tarragona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Uni%C3%B3%2C%20s/n%2C%2043820%20Calafell%2C%20Tarragona%2C%20Espa%C3%B1a",
           "logo": "escuts/cp_calafell.webp",
