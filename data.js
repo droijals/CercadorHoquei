@@ -1393,7 +1393,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ch%20Arenys%20De%20Mar%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/ch_arenys_mar.webp",
           "verified": false,
           "phone": ""
         },
