@@ -703,7 +703,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cp%20Voltreg%C3%A0%20B%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/club_pati_voltrega.webp",
           "verified": false,
           "phone": ""
         }
