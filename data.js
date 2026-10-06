@@ -80,7 +80,7 @@ const DATA={
           "city": "",
           "address": "Camí del Veïnat, núm. 5, 08415 Bigues, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cam%C3%AD%20del%20Ve%C3%AFnat%2C%20n%C3%BAm.%205%2C%2008415%20Bigues%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fhoqueihub.cat%2Fescuts%2F56.webp&w=128",
+          "logo": "escuts/bigues_i_riells_chp.webp",
           "verified": true,
           "phone": ""
         },
@@ -380,7 +380,7 @@ const DATA={
           "city": "",
           "address": "Camí del Veïnat, núm. 5, 08415 Bigues, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cam%C3%AD%20del%20Ve%C3%AFnat%2C%20n%C3%BAm.%205%2C%2008415%20Bigues%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fhoqueihub.cat%2Fescuts%2F56.webp&w=128",
+          "logo": "escuts/bigues_i_riells_chp.webp",
           "verified": true,
           "phone": ""
         },
@@ -1348,7 +1348,7 @@ const DATA={
           "city": "",
           "address": "Camí del Veïnat, núm. 5, 08415 Bigues, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cam%C3%AD%20del%20Ve%C3%AFnat%2C%20n%C3%BAm.%205%2C%2008415%20Bigues%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fhoqueihub.cat%2Fescuts%2F56.webp&w=128",
+          "logo": "escuts/bigues_i_riells_chp.webp",
           "verified": true,
           "phone": ""
         },
