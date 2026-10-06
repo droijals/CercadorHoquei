@@ -1191,7 +1191,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Gandesa, 3, 08500 Vic, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Gandesa%2C%203%2C%2008500%20Vic%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/vic_hc.webp",
           "verified": true,
           "phone": "",
           "clubName": "Vic Hoquei Club"
@@ -1284,7 +1284,7 @@ const DATA={
           "city": "",
           "address": "Avinguda de l'Àguila, 9, 08197 Sant Cugat del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/phc_sant_cugat.webp",
           "verified": true,
           "phone": "",
           "clubName": "PHC Sant Cugat"
@@ -1303,7 +1303,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Pavelló Municipal La Torre Roja, Caldes de Montbui, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20la%20Torre%20Roja%2C%20s/n%2C%2008140%20Caldes%20de%20Montbui%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F237.png&w=128",
+          "logo": "escuts/caldes_recam.webp",
           "verified": true,
           "phone": "618 623 732",
           "clubName": "Club Hoquei Caldes"
@@ -1357,7 +1357,7 @@ const DATA={
           "city": "",
           "address": "Avinguda de l'Àguila, 9, 08197 Sant Cugat del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/phc_sant_cugat.webp",
           "verified": true,
           "phone": "",
           "clubName": "PHC Sant Cugat"
@@ -1412,7 +1412,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Carrer de la Torre Roja, s/n, 08140 Caldes de Montbui, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20la%20Torre%20Roja%2C%20s/n%2C%2008140%20Caldes%20de%20Montbui%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/caldes_recam.webp",
           "verified": true,
           "phone": ""
         },
@@ -1520,7 +1520,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Cp%20Malgrat%20Grup%20Escobar%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/cp_malgrat.webp",
           "verified": false,
           "phone": ""
         },
@@ -1529,7 +1529,7 @@ const DATA={
           "city": "",
           "address": "Crta. de Cànoves s/n, Zona Esportiva Corró d’Amunt, 08520 Les Franqueses del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ch%20Les%20Franqueses%20A%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/ch_les_franqueses.webp",
           "verified": false,
           "phone": "672 049 287",
           "clubName": "Club Hoquei Les Franqueses"
@@ -1566,7 +1566,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Hc%20Montbui%20-%20Afiliat%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/montbui.webp",
           "verified": false,
           "phone": ""
         }
