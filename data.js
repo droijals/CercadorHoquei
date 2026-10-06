@@ -639,7 +639,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Vilassar de Mar, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Vilassar%20de%20Mar%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/joi_moner_sant_ramon.webp",
           "verified": false,
           "phone": ""
         },
