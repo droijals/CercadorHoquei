@@ -738,7 +738,7 @@ const DATA={
           "city": "",
           "address": "C/ Josep Rovira, 14, 08770 Sant Sadurní d’Anoia, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Noia%20Freixenet%20E%20hockey%20patins",
-          "logo": "https://pbs.twimg.com/profile_images/1729047062723878912/2LYZ8NRz_400x400.jpg",
+          "logo": "escuts/noia_freixenet.webp",
           "verified": false,
           "phone": "93 891 27 89",
           "clubName": "Club Esportiu Noia Freixenet"
@@ -818,7 +818,7 @@ const DATA={
           "city": "",
           "address": "C/ Josep Rovira, 14, 08770 Sant Sadurní d’Anoia, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Noia%20Freixenet%20B%20hockey%20patins",
-          "logo": "https://pbs.twimg.com/profile_images/1729047062723878912/2LYZ8NRz_400x400.jpg",
+          "logo": "escuts/noia_freixenet.webp",
           "verified": false,
           "phone": "93 891 27 89",
           "clubName": "Club Esportiu Noia Freixenet"
@@ -957,7 +957,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pons%20Lleida%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/pons_lleida.webp",
           "verified": false,
           "phone": "",
           "clubName": "Pons Lleida"
@@ -985,7 +985,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Raval Parruca, 1, 08629 Torrelles de Llobregat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20del%20Raval%20Parruca%2C%201%2C%2008629%20Torrelles%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_torrelles.webp",
           "verified": true,
           "phone": "687 550 739",
           "clubName": "Club Patí Torrelles"
@@ -1061,7 +1061,7 @@ const DATA={
           "city": "",
           "address": "Plaça Major, 1, 25245 Vila-sana, Lleida, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pla%C3%A7a%20Major%2C%201%2C%2025245%20Vila-sana%2C%20Lleida%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_vila_sana.webp",
           "verified": true,
           "phone": ""
         },
@@ -1107,7 +1107,7 @@ const DATA={
           "city": "",
           "address": "Carrer de la Pobla de Claramunt, 3-4, 08700 Igualada, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20la%20Pobla%20de%20Claramunt%2C%203-4%2C%2008700%20Igualada%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/igualada_femeni.webp",
           "verified": true,
           "phone": ""
         },
@@ -1402,7 +1402,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Can Fàbregas, 1-3, 08100 Mollet del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Mollet%20Hc%20B%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/mollet_hc.webp",
           "verified": false,
           "phone": "",
           "clubName": "Mollet HC"
@@ -1431,7 +1431,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Passeig de la Bonanova, 8, 08022 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Bonanova%2C%208%2C%2008022%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/salle_bonanova.webp",
           "verified": true,
           "phone": ""
         },
