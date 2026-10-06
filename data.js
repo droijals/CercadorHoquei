@@ -1088,7 +1088,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Passeig del Ter, s/n, 08560 Manlleu, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20del%20Ter%2C%20s/n%2C%2008560%20Manlleu%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/martinelia_manlleu.webp",
           "verified": true,
           "phone": ""
         },
@@ -1339,7 +1339,7 @@ const DATA={
           "city": "",
           "address": "Passeig del Ter, s/n, 08560 Manlleu, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20del%20Ter%2C%20s/n%2C%2008560%20Manlleu%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/martinelia_manlleu.webp",
           "verified": true,
           "phone": ""
         },
