@@ -285,7 +285,7 @@ const DATA={
           "city": "",
           "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/sant_just_hc.webp",
           "verified": true,
           "phone": "93 470 59 45",
           "clubName": "Hoquei Club Sant Just"
@@ -295,7 +295,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Raval Parruca, 1, 08629 Torrelles de Llobregat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20del%20Raval%20Parruca%2C%201%2C%2008629%20Torrelles%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_torrelles.webp",
           "verified": true,
           "phone": "687 550 739",
           "clubName": "Club Patí Torrelles"
@@ -305,7 +305,7 @@ const DATA={
           "city": "08027 Barcelona",
           "address": "Carrer de les Camèlies, s/n, 08290 Cerdanyola del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cerdanyola.webp",
           "verified": true,
           "phone": "93 592 15 51",
           "clubName": "Cerdanyola Club d’Hoquei"
@@ -315,7 +315,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Passeig de la Bonanova, 8, 08022 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Bonanova%2C%208%2C%2008022%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/salle_bonanova.webp",
           "verified": true,
           "phone": ""
         },
