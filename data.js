@@ -1485,7 +1485,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Igualada%20Hc%20B%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/igualada_hc.webp",
           "verified": false,
           "phone": ""
         },
