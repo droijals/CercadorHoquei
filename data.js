@@ -967,7 +967,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Salvador Espriu, s/n, 43330 Riudoms, Tarragona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Salvador%20Espriu%2C%20s/n%2C%2043330%20Riudoms%2C%20Tarragona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_riudoms.webp",
           "verified": true,
           "phone": ""
         },
