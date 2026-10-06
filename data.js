@@ -1153,7 +1153,7 @@ const DATA={
           "city": "",
           "address": "Avinguda Josep Tarradellas, s/n, 08757 Corbera de Llobregat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20Josep%20Tarradellas%2C%20s/n%2C%2008757%20Corbera%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_corbera.webp",
           "verified": true,
           "phone": ""
         },
@@ -1211,7 +1211,7 @@ const DATA={
           "city": "",
           "address": "C. Hondures, 2, 08027 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Sagrerenc%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/ce_sagrerenc.webp",
           "verified": false,
           "phone": "617 066 286 / 93 408 23 65",
           "clubName": "Club Esportiu Sagrerenc"
@@ -1440,7 +1440,7 @@ const DATA={
           "city": "",
           "address": "C. Hondures, 2, 08027 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Sagrerenc%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/ce_sagrerenc.webp",
           "verified": false,
           "phone": "617 066 286 / 93 408 23 65",
           "clubName": "Club Esportiu Sagrerenc"
