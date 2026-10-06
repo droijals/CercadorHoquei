@@ -1005,7 +1005,7 @@ const DATA={
           "city": "",
           "address": "Carrer dels Mestres, 29, 17310 Lloret de Mar, Girona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20dels%20Mestres%2C%2029%2C%2017310%20Lloret%20de%20Mar%2C%20Girona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/ch_lloret.webp",
           "verified": true,
           "phone": ""
         }
