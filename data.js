@@ -11,11 +11,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta",
           "city": "08031 Barcelona",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Farners",
@@ -24,7 +25,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20N%C3%B2ria%2C%20s/n%2C%2017430%20Santa%20Coloma%20de%20Farners%2C%20Girona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/310_5.png",
           "verified": true,
-          "phone": "686 47 33 24"
+          "phone": "686 47 33 24",
+          "clubName": "Club Hoquei Farners"
         },
         {
           "name": "Martinelia Manlleu",
@@ -38,11 +40,12 @@ const DATA={
         {
           "name": "Cp Sant Celoni",
           "city": "",
-          "address": "Passeig dels Esports, s/n, 08470 Sant Celoni, Barcelona, España",
+          "address": "Pista coberta Camp Municipal d’Esports, Av. Catalunya, 14, 08470 Sant Celoni, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20dels%20Esports%2C%20s/n%2C%2008470%20Sant%20Celoni%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": "686 387 024"
+          "phone": "686 387 024 / 629 378 311",
+          "clubName": "Club Patí Sant Celoni"
         },
         {
           "name": "Ch Ripollet",
@@ -60,7 +63,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=C/%20Oliveras%20de%20la%20Riva%2C%20s/n%2C%2008512%20Sant%20Hip%C3%B2lit%20de%20Voltreg%C3%A0%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F29.png&w=128",
           "verified": true,
-          "phone": "93 850 26 54"
+          "phone": "93 850 26 54 / 667 675 501",
+          "clubName": "Club Patí Voltregà"
         },
         {
           "name": "Ce Torrelavit Font Packaging",
@@ -117,20 +121,22 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta",
           "city": "08031 Barcelona",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Ch Mollerussa",
           "city": "Lleida",
-          "address": "Carrer de Tarragona, 15, 25230 Mollerussa, Lleida, España",
+          "address": "C/ Tarragona, 15, 25230 Mollerussa, Lleida, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Tarragona%2C%2015%2C%2025230%20Mollerussa%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": "676 990 721"
+          "phone": "676 990 721",
+          "clubName": "Club Hoquei Mollerussa"
         },
         {
           "name": "Hc Valls Intec Enginyeria",
@@ -139,7 +145,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Prat%20de%20la%20Riba%2C%2015%2C%2043800%20Valls%2C%20Tarragona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "HC Valls"
         },
         {
           "name": "Sferic",
@@ -148,7 +155,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Faraday%2C%2041%2C%2008224%20Terrassa%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "Sferic Terrassa"
         },
         {
           "name": "Mollet Hc",
@@ -157,7 +165,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Can%20F%C3%A0bregas%2C%201-3%2C%2008100%20Mollet%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "Mollet HC"
         },
         {
           "name": "Ch Palafrugell",
@@ -180,11 +189,12 @@ const DATA={
         {
           "name": "Ceh Olímpic Reus",
           "city": "Tarragona",
-          "address": "Carrer Mont Caro, 2-6, 43206 Reus, Tarragona, España",
+          "address": "C/ Mont Caro, 2, 43206 Reus, Tarragona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Mont%20Caro%2C%202-6%2C%2043206%20Reus%2C%20Tarragona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "679 048 104",
+          "clubName": "Club Esportiu Hoquei Olímpic Reus"
         },
         {
           "name": "Unió Esportiva La Garriga",
@@ -198,29 +208,32 @@ const DATA={
         {
           "name": "Ce Noia Freixenet",
           "city": "Barcelona",
-          "address": "Carrer de Josep Rovira, 14, 08770 Sant Sadurní d'Anoia, Barcelona, España",
+          "address": "C/ Josep Rovira, 14, 08770 Sant Sadurní d’Anoia, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Josep%20Rovira%2C%2014%2C%2008770%20Sant%20Sadurn%C3%AD%20d%27Anoia%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "https://pbs.twimg.com/profile_images/1729047062723878912/2LYZ8NRz_400x400.jpg",
           "verified": true,
-          "phone": ""
+          "phone": "93 891 27 89",
+          "clubName": "Club Esportiu Noia Freixenet"
         },
         {
           "name": "Innoaesthetics Hc Sant Just",
           "city": "Barcelona",
-          "address": "Passeig de la Muntanya, 25, 08960 Sant Just Desvern, Barcelona, España",
+          "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": "93 470 59 45"
+          "phone": "93 470 59 45",
+          "clubName": "Hoquei Club Sant Just"
         },
         {
           "name": "Club Hoquei Prat",
           "city": "Barcelona",
-          "address": "Carrer de Frederica Montseny, 2, 08820 El Prat de Llobregat, Barcelona, España",
+          "address": "El Prat de Llobregat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Frederica%20Montseny%2C%202%2C%2008820%20El%20Prat%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F275.png&w=128",
           "verified": true,
-          "phone": "93 478 06 39"
+          "phone": "93 478 06 39",
+          "clubName": "Club Hoquei Prat"
         },
         {
           "name": "Hoquei Club Alpicat",
@@ -234,11 +247,12 @@ const DATA={
         {
           "name": "Hc Castellar",
           "city": "Barcelona",
-          "address": "Carrer Joaquín Blume, s/n, 08211 Castellar del Vallès, Barcelona, España",
+          "address": "C. de Sant Feliu, 2, 08211 Castellar del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Joaqu%C3%ADn%20Blume%2C%20s/n%2C%2008211%20Castellar%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F241_2.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "937 159 573",
+          "clubName": "Hoquei Club Castellar"
         }
       ]
     },
@@ -250,11 +264,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta",
           "city": "08031 Barcelona",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Cpi La Sagrera",
@@ -268,20 +283,22 @@ const DATA={
         {
           "name": "Innoaesthetics Hc Sant Just A",
           "city": "",
-          "address": "Passeig de la Muntanya, 25, 08960 Sant Just Desvern, Barcelona, España",
+          "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "93 470 59 45",
+          "clubName": "Hoquei Club Sant Just"
         },
         {
           "name": "Club Pati Torrelles B",
           "city": "Barcelona",
-          "address": "Carrer del Raval Parruca, 1, 08629 Torrelles de Llobregat, Barcelona, España",
+          "address": "Raval Parruca, 1, 08629 Torrelles de Llobregat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20del%20Raval%20Parruca%2C%201%2C%2008629%20Torrelles%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "687 550 739",
+          "clubName": "Club Patí Torrelles"
         },
         {
           "name": "Fenie Energia Cerdanyola Cch",
@@ -290,7 +307,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "93 592 15 51",
+          "clubName": "Cerdanyola Club d’Hoquei"
         },
         {
           "name": "Se La Salle Bonanova B",
@@ -320,11 +338,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta",
           "city": "08031 Barcelona",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Generali Hc Palau",
@@ -333,7 +352,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "HC Palau"
         },
         {
           "name": "Club Patí Voltregà",
@@ -342,16 +362,18 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=C/%20Oliveras%20de%20la%20Riva%2C%20s/n%2C%2008512%20Sant%20Hip%C3%B2lit%20de%20Voltreg%C3%A0%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F29.png&w=128",
           "verified": true,
-          "phone": "93 850 26 54"
+          "phone": "93 850 26 54 / 667 675 501",
+          "clubName": "Club Patí Voltregà"
         },
         {
           "name": "Club Patí Vilafranca AKO",
           "city": "Barcelona",
-          "address": "Av. Catalunya, s/n, 08720 Vilafranca del Penedès, Barcelona, España",
+          "address": "Rambla de Sant Francesc, 24, 08720 Vilafranca del Penedès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Av.%20Catalunya%2C%20s/n%2C%2008720%20Vilafranca%20del%20Pened%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "665 371 773",
+          "clubName": "Club Patí Vilafranca"
         },
         {
           "name": "Rototank Bigues i Riells",
@@ -378,7 +400,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Faraday%2C%2041%2C%2008224%20Terrassa%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "Sferic Terrassa"
         },
         {
           "name": "Club Pati Cubelles",
@@ -401,20 +424,22 @@ const DATA={
         {
           "name": "Hc Castellar",
           "city": "Barcelona",
-          "address": "Carrer Joaquín Blume, s/n, 08211 Castellar del Vallès, Barcelona, España",
+          "address": "C. de Sant Feliu, 2, 08211 Castellar del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Joaqu%C3%ADn%20Blume%2C%20s/n%2C%2008211%20Castellar%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F241_2.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "937 159 573",
+          "clubName": "Hoquei Club Castellar"
         },
         {
           "name": "Cerdanyola Club d'Hoquei",
           "city": "",
-          "address": "Carrer de les Camèlies, s/n, 08290 Cerdanyola del Vallès, Barcelona, España",
+          "address": "Pavelló Municipal Can Xarau, Cerdanyola del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": "93 592 15 51"
+          "phone": "93 592 15 51",
+          "clubName": "Cerdanyola Club d’Hoquei"
         },
         {
           "name": "Predecat Igualada Femení",
@@ -441,7 +466,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pons%20Lleida%20hockey%20patins",
           "logo": "",
           "verified": false,
-          "phone": ""
+          "phone": "",
+          "clubName": "Pons Lleida"
         },
         {
           "name": "Club Olesa Pati",
@@ -455,11 +481,12 @@ const DATA={
         {
           "name": "Innoaesthetics Hc Sant Just",
           "city": "Barcelona",
-          "address": "Passeig de la Muntanya, 25, 08960 Sant Just Desvern, Barcelona, España",
+          "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": "93 470 59 45"
+          "phone": "93 470 59 45",
+          "clubName": "Hoquei Club Sant Just"
         },
         {
           "name": "Oxigen Sant Cugat",
@@ -468,7 +495,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "PHC Sant Cugat"
         },
         {
           "name": "Cp Vila-Sana",
@@ -489,11 +517,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta A",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Club Hoquei Vilassar",
@@ -507,20 +536,22 @@ const DATA={
         {
           "name": "Ch Mataró",
           "city": "",
-          "address": "Avinguda del Corregiment de Mataró, 62, 08304 Mataró, Barcelona, España",
+          "address": "Corregiment, 62, 08304 Mataró, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20del%20Corregiment%20de%20Matar%C3%B3%2C%2062%2C%2008304%20Matar%C3%B3%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F263.PNG&w=128",
+          "logo": "https://pbs.twimg.com/profile_images/1262382629665505281/h9VZybRH.jpg",
           "verified": true,
-          "phone": ""
+          "phone": "659 132 573",
+          "clubName": "Club Hoquei Mataró"
         },
         {
           "name": "Hc Castellar",
           "city": "Barcelona",
-          "address": "Carrer Joaquín Blume, s/n, 08211 Castellar del Vallès, Barcelona, España",
+          "address": "C. de Sant Feliu, 2, 08211 Castellar del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Joaqu%C3%ADn%20Blume%2C%20s/n%2C%2008211%20Castellar%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F241_2.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "937 159 573",
+          "clubName": "Hoquei Club Castellar"
         },
         {
           "name": "Club Pati Cubelles",
@@ -541,11 +572,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta B",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Vicio Sant Cugat C",
@@ -554,16 +586,18 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "PHC Sant Cugat"
         },
         {
           "name": "Auto Vigatana Patí Vic A",
           "city": "",
-          "address": "",
+          "address": "Carrer de Gandesa, 3, 08500 Vic, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Auto%20Vigatana%20Pat%C3%AD%20Vic%20A%20hockey%20patins",
           "logo": "",
           "verified": false,
-          "phone": ""
+          "phone": "",
+          "clubName": "Vic Hoquei Club"
         },
         {
           "name": "Martinelia Manlleu B",
@@ -593,11 +627,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta A",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Joi Moner Sant Ramon",
@@ -611,11 +646,12 @@ const DATA={
         {
           "name": "Farners A",
           "city": "",
-          "address": "",
+          "address": "Passeig de la Nòria, s/n, 17430 Santa Coloma de Farners, Girona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Farners%20A%20hockey%20patins",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/310_5.png",
           "verified": false,
-          "phone": ""
+          "phone": "686 47 33 24",
+          "clubName": "Club Hoquei Farners"
         },
         {
           "name": "Generali Hc Palau A",
@@ -624,7 +660,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "HC Palau"
         },
         {
           "name": "Hoquei Club Alpicat",
@@ -645,11 +682,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta B",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Cp Masquefa",
@@ -679,11 +717,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta A",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Reus Deportiu B B",
@@ -697,11 +736,12 @@ const DATA={
         {
           "name": "Ce Noia Freixenet E",
           "city": "",
-          "address": "",
+          "address": "C/ Josep Rovira, 14, 08770 Sant Sadurní d’Anoia, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Noia%20Freixenet%20E%20hockey%20patins",
-          "logo": "",
+          "logo": "https://pbs.twimg.com/profile_images/1729047062723878912/2LYZ8NRz_400x400.jpg",
           "verified": false,
-          "phone": ""
+          "phone": "93 891 27 89",
+          "clubName": "Club Esportiu Noia Freixenet"
         },
         {
           "name": "Ch Olot A",
@@ -722,11 +762,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta B",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Cp Vilanova",
@@ -765,20 +806,22 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta A",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Ce Noia Freixenet B",
           "city": "",
-          "address": "",
+          "address": "C/ Josep Rovira, 14, 08770 Sant Sadurní d’Anoia, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Noia%20Freixenet%20B%20hockey%20patins",
-          "logo": "",
+          "logo": "https://pbs.twimg.com/profile_images/1729047062723878912/2LYZ8NRz_400x400.jpg",
           "verified": false,
-          "phone": ""
+          "phone": "93 891 27 89",
+          "clubName": "Club Esportiu Noia Freixenet"
         },
         {
           "name": "Cp Folgueroles A",
@@ -796,16 +839,18 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Tarragona%2C%2015%2C%2025230%20Mollerussa%2C%20Lleida%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "Hoquei Mollerussa-Tàrrega"
         },
         {
           "name": "Hc Castellar A",
           "city": "",
-          "address": "",
+          "address": "C. de Sant Feliu, 2, 08211 Castellar del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Hc%20Castellar%20A%20hockey%20patins",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F241_2.png&w=128",
           "verified": false,
-          "phone": ""
+          "phone": "937 159 573",
+          "clubName": "Hoquei Club Castellar"
         },
         {
           "name": "Ch Figueres A",
@@ -826,11 +871,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta B",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Hoquei Claret C",
@@ -839,16 +885,18 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Sant%20Antoni%20Maria%20Claret%2C%2049%2C%2008025%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F443.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "642 00 15 52",
+          "clubName": "Club Hoquei Claret Barcelona"
         },
         {
           "name": "Innoaesthetics Hc Sant Just B",
           "city": "",
-          "address": "Passeig de la Muntanya, 25, 08960 Sant Just Desvern, Barcelona, España",
+          "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "93 470 59 45",
+          "clubName": "Hoquei Club Sant Just"
         },
         {
           "name": "Cpi La Sagrera B",
@@ -887,20 +935,22 @@ const DATA={
         {
           "name": "Ceh Sabadell",
           "city": "Sabadell",
-          "address": "Carrer de l'Estrella, 98, 08201 Sabadell, España",
+          "address": "Camí de Can Quadras, s/n, 08201 Sabadell, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20l%27Estrella%2C%2098%2C%2008201%20Sabadell%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": "657 682 214"
+          "phone": "657 682 214",
+          "clubName": "Club Esportiu Hoquei Sabadell"
         },
         {
           "name": "Unió Esportiva d'Horta",
           "city": "08031 Barcelona",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Pons Lleida",
@@ -909,7 +959,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pons%20Lleida%20hockey%20patins",
           "logo": "",
           "verified": false,
-          "phone": ""
+          "phone": "",
+          "clubName": "Pons Lleida"
         },
         {
           "name": "Cp Riudoms",
@@ -932,11 +983,12 @@ const DATA={
         {
           "name": "Club Pati Torrelles",
           "city": "Barcelona",
-          "address": "Carrer del Raval Parruca, 1, 08629 Torrelles de Llobregat, Barcelona, España",
+          "address": "Raval Parruca, 1, 08629 Torrelles de Llobregat, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20del%20Raval%20Parruca%2C%201%2C%2008629%20Torrelles%20de%20Llobregat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "687 550 739",
+          "clubName": "Club Patí Torrelles"
         },
         {
           "name": "Hcsentmenat",
@@ -945,7 +997,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Poca%20Farina%2C%20s/n%2C%2008181%20Sentmenat%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "Hoquei Club Sentmenat"
         },
         {
           "name": "Ch Lloret Cafès Cornellà",
@@ -966,29 +1019,32 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta A",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Unió Esportiva d'Horta B",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Innoaesthetics Hc Sant Just",
           "city": "Barcelona",
-          "address": "Passeig de la Muntanya, 25, 08960 Sant Just Desvern, Barcelona, España",
+          "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": "93 470 59 45"
+          "phone": "93 470 59 45",
+          "clubName": "Hoquei Club Sant Just"
         },
         {
           "name": "Generali Hc Palau B",
@@ -997,7 +1053,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "HC Palau"
         },
         {
           "name": "Cp Vila-Sana B",
@@ -1042,7 +1099,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "93 592 15 51",
+          "clubName": "Cerdanyola Club d’Hoquei"
         },
         {
           "name": "Gili Igualada Femení Hcp A",
@@ -1060,7 +1118,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20Pa%C3%AFsos%20Catalans%2C%20s/n%2C%2017190%20Salt%2C%20Girona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "Hoquei Club Salt"
         },
         {
           "name": "Farners",
@@ -1069,7 +1128,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20N%C3%B2ria%2C%20s/n%2C%2017430%20Santa%20Coloma%20de%20Farners%2C%20Girona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/310_5.png",
           "verified": true,
-          "phone": "686 47 33 24"
+          "phone": "686 47 33 24",
+          "clubName": "Club Hoquei Farners"
         }
       ]
     },
@@ -1081,11 +1141,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta",
           "city": "08031 Barcelona",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Cp Corbera",
@@ -1103,7 +1164,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Carrerada%2C%2055%2C%2008184%20Palau-solit%C3%A0%20i%20Plegamans%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "HC Palau"
         },
         {
           "name": "Girona Club Hoquei",
@@ -1112,7 +1174,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Josep%20Aguilera%20i%20Mart%C3%AD%2C%202%2C%2017002%20Girona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "Girona Club Hoquei"
         },
         {
           "name": "Hoquei Claret",
@@ -1130,25 +1193,28 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Gandesa%2C%203%2C%2008500%20Vic%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "Vic Hoquei Club"
         },
         {
           "name": "Innoaesthetics Hc Sant Just B",
           "city": "",
-          "address": "Passeig de la Muntanya, 25, 08960 Sant Just Desvern, Barcelona, España",
+          "address": "Passeig de la Muntanya, 27, 08960 Sant Just Desvern, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20de%20la%20Muntanya%2C%2025%2C%2008960%20Sant%20Just%20Desvern%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "93 470 59 45",
+          "clubName": "Hoquei Club Sant Just"
         },
         {
           "name": "Ce Sagrerenc",
           "city": "",
-          "address": "",
+          "address": "C. Hondures, 2, 08027 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Sagrerenc%20hockey%20patins",
           "logo": "",
           "verified": false,
-          "phone": ""
+          "phone": "617 066 286 / 93 408 23 65",
+          "clubName": "Club Esportiu Sagrerenc"
         },
         {
           "name": "Club Pati Cubelles",
@@ -1171,11 +1237,12 @@ const DATA={
         {
           "name": "Hoquei Patins Tona",
           "city": "",
-          "address": "Carrer Jaume Balmes, 57, 08551 Tona, Barcelona, España",
+          "address": "Pavelló Municipal d’Esports, C. Jaume Balmes, 57, 08551 Tona, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Jaume%20Balmes%2C%2057%2C%2008551%20Tona%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "https://www.tona.cat/media/repository/entitats/0110130953_hptona.jpg",
           "verified": true,
-          "phone": "609 924 822"
+          "phone": "609 924 822",
+          "clubName": "Hoquei Patins Tona"
         },
         {
           "name": "Ch Olot A",
@@ -1205,11 +1272,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta A",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Vicio Sant Cugat A",
@@ -1218,7 +1286,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "PHC Sant Cugat"
         },
         {
           "name": "Cp Riudebitlles A",
@@ -1232,11 +1301,12 @@ const DATA={
         {
           "name": "Ch Caldes Recam Làser A",
           "city": "Barcelona",
-          "address": "Carrer de la Torre Roja, s/n, 08140 Caldes de Montbui, Barcelona, España",
+          "address": "Pavelló Municipal La Torre Roja, Caldes de Montbui, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20la%20Torre%20Roja%2C%20s/n%2C%2008140%20Caldes%20de%20Montbui%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F237.png&w=128",
           "verified": true,
-          "phone": ""
+          "phone": "618 623 732",
+          "clubName": "Club Hoquei Caldes"
         },
         {
           "name": "Cp Congres A",
@@ -1257,11 +1327,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta C",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Martinelia Manlleu C",
@@ -1288,7 +1359,8 @@ const DATA={
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "",
           "verified": true,
-          "phone": ""
+          "phone": "",
+          "clubName": "PHC Sant Cugat"
         }
       ]
     },
@@ -1300,11 +1372,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta B",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Ch Santa Perpètua A",
@@ -1327,11 +1400,12 @@ const DATA={
         {
           "name": "Mollet Hc B",
           "city": "",
-          "address": "",
+          "address": "Carrer de Can Fàbregas, 1-3, 08100 Mollet del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Mollet%20Hc%20B%20hockey%20patins",
           "logo": "",
           "verified": false,
-          "phone": ""
+          "phone": "",
+          "clubName": "Mollet HC"
         },
         {
           "name": "Ch Caldes Recam Làser D",
@@ -1345,11 +1419,12 @@ const DATA={
         {
           "name": "Ch Mataró B",
           "city": "",
-          "address": "",
+          "address": "Corregiment, 62, 08304 Mataró, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ch%20Matar%C3%B3%20B%20hockey%20patins",
-          "logo": "https://hoqueihub.cat/_next/image?q=75&url=https%3A%2F%2Fsidgad.cloud%2Ffecapa%2Fimages%2F%2Flogos_clubes%2F263.PNG&w=128",
+          "logo": "https://pbs.twimg.com/profile_images/1262382629665505281/h9VZybRH.jpg",
           "verified": false,
-          "phone": ""
+          "phone": "659 132 573",
+          "clubName": "Club Hoquei Mataró"
         },
         {
           "name": "Se La Salle Bonanova B",
@@ -1363,11 +1438,12 @@ const DATA={
         {
           "name": "Ce Sagrerenc",
           "city": "",
-          "address": "",
+          "address": "C. Hondures, 2, 08027 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ce%20Sagrerenc%20hockey%20patins",
           "logo": "",
           "verified": false,
-          "phone": ""
+          "phone": "617 066 286 / 93 408 23 65",
+          "clubName": "Club Esportiu Sagrerenc"
         }
       ]
     },
@@ -1379,11 +1455,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta",
           "city": "08031 Barcelona",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Hf Sant Josep Sant Sadurní A",
@@ -1431,11 +1508,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta B",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Cp Malgrat Grup Escobar",
@@ -1449,20 +1527,22 @@ const DATA={
         {
           "name": "Ch Les Franqueses A",
           "city": "",
-          "address": "",
+          "address": "Crta. de Cànoves s/n, Zona Esportiva Corró d’Amunt, 08520 Les Franqueses del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ch%20Les%20Franqueses%20A%20hockey%20patins",
           "logo": "",
           "verified": false,
-          "phone": ""
+          "phone": "672 049 287",
+          "clubName": "Club Hoquei Les Franqueses"
         },
         {
           "name": "Hoquei Patins Tona A",
           "city": "",
-          "address": "Carrer Jaume Balmes, 57, 08551 Tona, Barcelona, España",
+          "address": "Pavelló Municipal d’Esports, C. Jaume Balmes, 57, 08551 Tona, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20Jaume%20Balmes%2C%2057%2C%2008551%20Tona%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "https://www.tona.cat/media/repository/entitats/0110130953_hptona.jpg",
           "verified": true,
-          "phone": ""
+          "phone": "609 924 822",
+          "clubName": "Hoquei Patins Tona"
         }
       ]
     },
@@ -1474,11 +1554,12 @@ const DATA={
         {
           "name": "Unió Esportiva d'Horta A",
           "city": "",
-          "address": "Carrer de Feliu i Codina, 27, 08031 Barcelona, España",
+          "address": "C/Feliu i Codina, 27, 08031 Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Feliu%20i%20Codina%2C%2027%2C%2008031%20Barcelona%2C%20Espa%C3%B1a",
           "logo": "https://sidgad.cloud/fecapa/images//logos_clubes/251_1.png",
           "verified": true,
-          "phone": "93 427 64 79"
+          "phone": "93 427 64 79",
+          "clubName": "Unió Esportiva d'Horta"
         },
         {
           "name": "Hc Montbui - Afiliat",

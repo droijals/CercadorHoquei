@@ -3,15 +3,12 @@
   "short_name": "Hoquei UE Horta",
   "lang": "ca",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#f6f7f9",
+  "background_color": "#ffffff",
   "theme_color": "#111827",
   "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
+    {"src":"https://www.uehorta.cat/wp-content/uploads/2025/05/logo-uehorta-title.png","sizes":"512x512","type":"image/png","purpose":"any maskable"},
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
   ]
 }
