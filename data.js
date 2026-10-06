@@ -1097,7 +1097,7 @@ const DATA={
           "city": "",
           "address": "Carrer de les Camèlies, s/n, 08290 Cerdanyola del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20les%20Cam%C3%A8lies%2C%20s/n%2C%2008290%20Cerdanyola%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cerdanyola.webp",
           "verified": true,
           "phone": "93 592 15 51",
           "clubName": "Cerdanyola Club d’Hoquei"
