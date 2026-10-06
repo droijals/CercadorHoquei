@@ -163,7 +163,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Carrer de Can Fàbregas, 1-3, 08100 Mollet del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20Can%20F%C3%A0bregas%2C%201-3%2C%2008100%20Mollet%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "escuts/mollethc.webp",
+          "logo": "escuts/mollet_hc.webp",
           "verified": true,
           "phone": "",
           "clubName": "Mollet HC"
