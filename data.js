@@ -584,7 +584,7 @@ const DATA={
           "city": "",
           "address": "Avinguda de l'Àguila, 9, 08197 Sant Cugat del Vallès, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Avinguda%20de%20l%27%C3%80guila%2C%209%2C%2008197%20Sant%20Cugat%20del%20Vall%C3%A8s%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/phc_sant_cugat.webp",
           "verified": true,
           "phone": "",
           "clubName": "PHC Sant Cugat"
@@ -594,7 +594,7 @@ const DATA={
           "city": "",
           "address": "Carrer de Gandesa, 3, 08500 Vic, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Auto%20Vigatana%20Pat%C3%AD%20Vic%20A%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/vic_hc.webp",
           "verified": false,
           "phone": "",
           "clubName": "Vic Hoquei Club"
@@ -604,7 +604,7 @@ const DATA={
           "city": "",
           "address": "Passeig del Ter, s/n, 08560 Manlleu, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Passeig%20del%20Ter%2C%20s/n%2C%2008560%20Manlleu%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/martinelia_manlleu.webp",
           "verified": true,
           "phone": ""
         },
@@ -613,7 +613,7 @@ const DATA={
           "city": "",
           "address": "Carrer de la Torre Roja, s/n, 08140 Caldes de Montbui, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Carrer%20de%20la%20Torre%20Roja%2C%20s/n%2C%2008140%20Caldes%20de%20Montbui%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/caldes_recam.webp",
           "verified": true,
           "phone": ""
         }
