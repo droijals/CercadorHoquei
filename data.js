@@ -729,7 +729,7 @@ const DATA={
           "city": "",
           "address": "",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Reus%20Deportiu%20B%20B%20hockey%20patins",
-          "logo": "",
+          "logo": "escuts/reus_deportiu.webp",
           "verified": false,
           "phone": ""
         },
@@ -774,7 +774,7 @@ const DATA={
           "city": "",
           "address": "Ronda Ibèrica, s/n, 08800 Vilanova i la Geltrú, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Ronda%20Ib%C3%A8rica%2C%20s/n%2C%2008800%20Vilanova%20i%20la%20Geltr%C3%BA%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_vilanova.webp",
           "verified": true,
           "phone": ""
         },
@@ -792,7 +792,7 @@ const DATA={
           "city": "Barcelona",
           "address": "Plaça Concòrdia, 08490 Tordera, Barcelona, España",
           "maps": "https://www.google.com/maps/dir/?api=1&destination=Pla%C3%A7a%20Conc%C3%B2rdia%2C%2008490%20Tordera%2C%20Barcelona%2C%20Espa%C3%B1a",
-          "logo": "",
+          "logo": "escuts/cp_tordera.webp",
           "verified": true,
           "phone": ""
         }
